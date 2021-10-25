@@ -20,4 +20,11 @@ const socials = [
   },
 ];
 
-export { seo, greeting, socials };
+// contact details
+const contact_details = {
+  title: "Contact Me",
+  description:
+    "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with Laravel, React, Android.",
+};
+
+export { seo, greeting, socials, contact_details };

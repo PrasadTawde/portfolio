@@ -1,10 +1,14 @@
-import React from "react";
+import React, { Component } from "react";
 
 class Footer extends React.Component {
   render() {
     return (
-      <div className="footer">
-        <p className="footer-text">Prasad Tawde</p>
+      <div>
+        <footer class="footer mt-auto py-3 bg-light">
+          <div class="container">
+            <span class="text-muted">Made with 💙 By Prasad Tawde</span>
+          </div>
+        </footer>
       </div>
     );
   }
