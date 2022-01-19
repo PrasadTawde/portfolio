@@ -6,7 +6,7 @@ const seo = {
 const greeting = {
   title: "Prasad Tawde",
   logo: "Prasad",
-  description: "A passionate web devloper",
+  description: "A FullStack web devloper",
   resume_link: "www.go.com",
 };
 
@@ -27,13 +27,23 @@ const social_media = [
     link: "https://www.instagram.com/prasadtawde07/",
     icon: "fab fa-instagram",
   },
+  {
+    name: "Twitter",
+    link: "https://www.twitter.com/PrasadTawde07",
+    icon: "fab fa-twitter",
+  },
+  {
+    name: "Koo App",
+    link: "https://www.kooapp.com/profile/prasadtawde",
+    icon: "fas fa-kiwi-bird",
+  },
 ];
 
 // contact details
 const contact_details = {
   title: "Reach out to me",
   description:
-    "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with Laravel, React, Android.",
+    "I am available on almost every social media platform, leave a message for me ill get back to you as soon as possible. I can help you with Laravel, React, Angular.",
   form_title: "Contact Me",
 };
 
@@ -41,7 +51,7 @@ const contact_details = {
 const projectheader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Laravel and react projects.",
+    "My projects makes use of vast variety of latest technology tools. My best experience is to create Laravel and React projects.",
 };
 
 //skills
@@ -57,9 +67,6 @@ const skills = {
         {
           skillName: "HTML5",
           icon: "fab fa-html5",
-          // style: {
-          //   color: "#E34F26",
-          // },
         },
         {
           skillName: "CSS3",

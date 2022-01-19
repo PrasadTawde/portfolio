@@ -2,7 +2,7 @@ import React from "react";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.bundle";
-import "./assets/style.css";
+import "./assets/css/style.css";
 import Header from "./parts/header";
 import Footer from "./parts/footer";
 import Home from "./pages/home";

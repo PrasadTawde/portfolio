@@ -1,7 +1,7 @@
 @font-face {
   font-family: "Lovely Home";
   src: local("Lovely Home"),
-    url("./fonts/LovelyHome-9aBZ.ttf") format("truetype");
+    url("../fonts/LovelyHome-9aBZ.ttf") format("truetype");
 }
 
 /* Header */
